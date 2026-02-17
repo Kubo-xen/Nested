@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    int number = 7;
+    int number = 3;
         
     if (number > 0 && number < 4) {
 
